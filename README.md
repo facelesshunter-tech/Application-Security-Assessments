@@ -19,6 +19,7 @@ exist, **how** attackers exploit them, and **how developers can prevent them**.
 **Author:** [FacelessHunter-tech](https://github.com/facelesshunter-tech)
 
 **Discipline:** Application Security | Web Penetration Testing | Secure Code Review
+
 **Environment:** Kali Linux | Burp Suite | OWASP Tooling
 
 ---
